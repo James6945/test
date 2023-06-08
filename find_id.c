@@ -3,7 +3,7 @@ static int count_ID=0;
 
 void find_ID()
 {
-    count_ID++;
+    count_ID--;
     count_service++;
     printf("\n You visiting the %s game.\n",title);
     
